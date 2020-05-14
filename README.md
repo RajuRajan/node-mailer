@@ -16,7 +16,7 @@ cd /path/to/project/this/folder
 # Install dependencies
 npm install
 
-# add all congig details in config.json
+# add all config details in config.json
 # start node 
 node index.js
 ```
